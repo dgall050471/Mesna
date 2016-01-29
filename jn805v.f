@@ -83,7 +83,7 @@
         k_ca=10.0d0
 
 
-        imax=31
+        imax=30
 *      I_inj=0.06535097d0
         I_inj=0.0d0
         do i=1, imax
